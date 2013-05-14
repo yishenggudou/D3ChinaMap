@@ -1,0 +1,17 @@
+Version 300
+Charset "WindowsSimpChinese"
+Coordsys Earth
+    Projection 1, 0
+columns 3
+    IDTIC integer
+    XTIC float
+    YTIC float
+data
+point 107.999870 20.000153
+  Symbol(32, 0, 9)
+point 114.000130 20.000153
+  Symbol(32, 0, 9)
+point 114.000100 15.999986
+  Symbol(32, 0, 9)
+point 107.999900 15.999986
+  Symbol(32, 0, 9)
