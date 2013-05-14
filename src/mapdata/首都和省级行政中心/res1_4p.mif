@@ -1,0 +1,84 @@
+Version 300
+Charset "WindowsSimpChinese"
+Coordsys Earth
+    Projection 1, 0
+columns 10
+    AREA float
+    PERIMETER float
+    RES1_4M_ integer
+    RES1_4M_ID integer
+    GBCODE decimal (6,0)
+    NAME char(30)
+    ADCODE93 decimal (6,0)
+    ADCODE99 decimal (6,0)
+    ADCLASS decimal (2,0)
+    PINYIN char(50)
+data
+point 116.380940 39.923615
+  Symbol(32, 0, 9)
+point 117.203500 39.131119
+  Symbol(32, 0, 9)
+point 114.489780 38.045128
+  Symbol(32, 0, 9)
+point 112.569350 37.871113
+  Symbol(32, 0, 9)
+point 111.663300 40.820942
+  Symbol(32, 0, 9)
+point 123.411680 41.796616
+  Symbol(32, 0, 9)
+point 125.315430 43.892563
+  Symbol(32, 0, 9)
+point 126.643340 45.741493
+  Symbol(32, 0, 9)
+point 121.469270 31.238176
+  Symbol(32, 0, 9)
+point 118.772780 32.047615
+  Symbol(32, 0, 9)
+point 120.159250 30.265995
+  Symbol(32, 0, 9)
+point 117.275700 31.863255
+  Symbol(32, 0, 9)
+point 119.297810 26.078590
+  Symbol(32, 0, 9)
+point 115.899920 28.675991
+  Symbol(32, 0, 9)
+point 117.005600 36.667072
+  Symbol(32, 0, 9)
+point 113.650050 34.757034
+  Symbol(32, 0, 9)
+point 114.291940 30.567514
+  Symbol(32, 0, 9)
+point 112.981270 28.200825
+  Symbol(32, 0, 9)
+point 113.261430 23.118912
+  Symbol(32, 0, 9)
+point 108.311770 22.806543
+  Symbol(32, 0, 9)
+point 110.346510 20.031794
+  Symbol(32, 0, 9)
+point 104.081760 30.661057
+  Symbol(32, 0, 9)
+point 106.510340 29.558176
+  Symbol(32, 0, 9)
+point 106.711370 26.576874
+  Symbol(32, 0, 9)
+point 102.704570 25.043844
+  Symbol(32, 0, 9)
+point 91.132050 29.657589
+  Symbol(32, 0, 9)
+point 108.949030 34.261684
+  Symbol(32, 0, 9)
+point 103.750050 36.068039
+  Symbol(32, 0, 9)
+point 101.787450 36.609447
+  Symbol(32, 0, 9)
+point 106.271940 38.468010
+  Symbol(32, 0, 9)
+point 87.606117 43.790939
+  Symbol(32, 0, 9)
+point 121.514280 25.049128
+  Symbol(32, 0, 9)
+point 113.550060 22.200796
+  Symbol(32, 0, 9)
+point 114.154400 22.280685
+  Symbol(32, 0, 9)
